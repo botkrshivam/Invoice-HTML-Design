@@ -1,0 +1,95 @@
+{
+    "awb_number": 123456765432,
+    
+	"vendorDetails": {
+		"billing_details": {
+			"name": "Vu Retail Private Limited",
+			"address": "Vu Retail, 29 MIDC Central Road, Andheri East, Mumbai 400093",
+			"gstin": "27AAICV3312R1ZT",
+			"invoice_no": "2556094-1",
+			"invoice_digit_count": 4,
+			"invoice_year": "2021"
+        },
+		"warehouses": [
+            {
+			"address": {
+				"line1": "Building No 16, Gala No 1, Indian Corporation,",
+				"line2": "Opp Gajanan Petrol Pump, Mankoli Naka, Village Dapode",
+				"Pincode": "421302",
+				"city": "Thane",
+				"state": "Maharashtra",
+				"contact_person_phone": "7972868513"
+                }
+            }
+        ]
+    },
+	"orderData": {
+		"id": "2556094-1",
+		"uuid": "8f3ad324-15c6-4f70-abaa-52d197f3387f",
+		"created_at": "2021-12-01 12: 57: 17.164018+00: 00",
+		"products": [
+            {
+				"quantity": 1,
+				"misc_data": {
+					"hsn_code": "852872",
+					"gst_rate": 28
+                },
+				"name": "Vu Premium 43 inch (108cm) 4K TV",
+				"selling_price": "24999.0",
+				"variant_size": "3 Years Warranty",
+				"variant_selling_price": "27499.0",
+				"sku": "43PM-3"
+            },
+            {
+				"quantity": 1,
+				"misc_data": {
+					"hsn_code": "852872",
+					"gst_rate": 28
+                },
+				"name": "Vu Premium 43 inch (108cm) 4K TV",
+				"selling_price": "24999.0",
+				"variant_size": "3 Years Warranty",
+				"variant_selling_price": "27499.0",
+				"sku": "43PM-3"
+            }
+        ],
+		"total_cost": 27499.0,
+		"delivery_cost": 0.0,
+		"order_meta": {
+			"show_payment_link": false,
+			"order_service_charge_data": [],
+			"draft_time": "01-12-2021T08: 11: 43.410253Z",
+			"pending_time": "01-12-2021T08: 16: 01.027952Z",
+			"buyer_address": {
+				"buyer": {
+					"name": "Ajit kumar",
+					"mobile": "+91-7999617494",
+					"email": "ajit.pandit09@gmail.com"
+                },
+				"line": "A-80 Elite, 2nd floor Alkapuri",
+				"line_1": "Near Aiims Bhopal",
+				"email": "ajit.pandit09@gmail.com",
+				"city": "bhopal",
+				"state": "Madhya Pradesh",
+				"pin": "462024",
+				"country": null
+            },
+			"store_table_data": null,
+			"order_payment_link_data": {
+				"web": "https: //payments.cashfree.com/order/#yvFW0AUJJyIyWKB7CBtf"
+            },
+			"order_receipt_pdf_link": "https: //dukaan-us.s3.amazonaws.com/order_receits/order_2556094_76291108897f4fd5b3d4ff8b0492cc75.pdf",
+			"accepted_time": "01-12-2021T08: 25: 45.440620Z",
+			"time_required_to_deliver": "6",
+			"shipped_time": "01-12-2021T12: 57: 19.838104Z"
+        },
+		"coupon_code": null,
+		"coupon_data": null,
+		"coupon_discount": 0.0,
+		"store_data": {
+			"name": "Vu Retail Private Limited",
+			"id": 101509992
+        },
+		"shipment_carrier": "dehlivery_surface"
+    }
+}

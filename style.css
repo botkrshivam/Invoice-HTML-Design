@@ -1,0 +1,85 @@
+div {
+    padding: 0px;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
+p.left-content {
+    line-height: 1.8;
+}
+p.right-content {
+    line-height: 1.8;
+}
+p{
+    margin-bottom:0px  !important;
+}
+
+.w-40{
+    width: 40%;
+}
+ .invoce-wrapper {
+    border: 2px solid black;
+    margin: 20px !important;
+    padding: 10px;
+    border-radius: 4px;
+    overflow: auto;
+}
+.header-1 {
+    text-align: center;
+}
+.para-1 {
+    text-align: center;
+}
+.check-box {
+    color: #fff;
+    background-color: #fff;
+}
+
+table{
+    margin-top: 24px;
+}
+table tr td{
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding: 18px;
+
+}
+table tr th{
+    padding: 8px 12px;
+    border-top: 1px solid;
+    margin-bottom: 20px;
+}
+.check-box {
+    margin-right: 20px;
+}
+.checkbox{
+    border-radius: 2px;
+    border: 1px solid;
+    width: 16px;
+    height: 16px;
+    margin-right: 20px;
+}
+.box-2 {
+
+    padding-top: 10px;
+    border-top: 1px dashed;
+
+}
+.box-heading {
+    padding-top: 10px;
+    border-top:.5px dashed black;
+    text-align: center;
+    border-bottom:.5pt dashed black;
+    padding-bottom: 8px;
+    margin-bottom: 24px;
+}
+.bottom {
+    text-align: center ;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #2196f3
+}
